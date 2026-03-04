@@ -7,4 +7,4 @@ This folder conatins graph hash table graphs calculations.
 - Distance Calculation Between Nodes
 - A Merge Sort Calculation
 
-# To practice graph drawing and its related calculations. related other calculations are stored your hardcopy notedbook of DSA Module.
+# To practice graph drawing and its related calculations. Related other calculations are stored your hardcopy notedbook of DSA Module.
