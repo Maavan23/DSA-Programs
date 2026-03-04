@@ -1,0 +1,10 @@
+# Excel Data Diagrams 
+
+This folder conatins graph hash table graphs calculations.
+
+## Topics Covered 
+- Find Shortest Path for starting Node to ending Node
+- Distance Calculation Between Nodes
+- A Merge Sort Calculation
+
+# To practice graph grapg drawing and its related calculations. related other calculations are stored your hardcopy notedbook of DSA Module.
